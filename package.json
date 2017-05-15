@@ -1,0 +1,22 @@
+{
+  "name": "mypackageefirst",
+  "version": "1.0.0",
+  "description": "erkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "gkgerkg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzsq/MYpackage.git"
+  },
+  "keywords": [
+    "pack"
+  ],
+  "author": "zsq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzsq/MYpackage/issues"
+  },
+  "homepage": "https://github.com/zzsq/MYpackage#readme"
+}
